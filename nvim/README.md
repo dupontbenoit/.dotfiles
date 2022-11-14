@@ -1,6 +1,9 @@
 # Config file for neovim
 
-Don'f forget to for the plugins to work
+
+## Installation
+
+Don'f forget to run the following command for Telescope to work. 
 
 ```
 brew install ripgrep
