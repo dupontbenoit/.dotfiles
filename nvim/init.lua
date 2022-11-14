@@ -6,3 +6,4 @@ require("lualine").setup({
 	},
 })
 require("keymap")
+require("lspconfig").pyright.setup{}
